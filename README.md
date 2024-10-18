@@ -94,13 +94,13 @@ Contributions are welcome! If you have suggestions, bug fixes, or new features t
 
 ## 📄 License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE.md` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## ✉️ Contact
 
-For questions or suggestions, feel free to reach out via [your contact details].
+For questions or suggestions, feel free to reach out via [https://x.com/bgraokmush](my X account).
 
 Project Link: [https://github.com/your-username/Turbin3-Q4-Solana](https://github.com/your-username/Turbin3-Q4-Solana)
 
