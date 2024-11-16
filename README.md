@@ -26,9 +26,11 @@ The repository is organized into different sections to provide a comprehensive g
 
 ### 📂 Repository Structure
 
-- [01-solana-rpc-ts](./01-solana-rpc-ts): This folder contains examples of interacting with Solana's RPC using TypeScript. It includes scripts to perform operations such as querying account data, sending transactions, and more.
+- **[01-solana-rpc-ts](./01-solana-rpc-ts)**: This folder contains examples of interacting with Solana's RPC using TypeScript. It includes scripts to perform operations such as querying account data, sending transactions, and more.
 
-- [02-solana-rpc-rs](./02-solana-rpc-rs): This folder contains examples of interacting with Solana's RPC using Rust. The examples cover similar operations to the TypeScript folder but are implemented using Rust's powerful programming capabilities.
+- **[02-solana-rpc-rs](./02-solana-rpc-rs)**: This folder contains examples of interacting with Solana's RPC using Rust. The examples cover similar operations to the TypeScript folder but are implemented using Rust's powerful programming capabilities.
+
+- **[03-solana-tokens](./03-solana-tokens)**: Provides utilities and examples for managing SPL Tokens and NFTs on the Solana blockchain. It includes scripts for minting, initializing, fetching metadata, and handling token-related operations using Metaplex.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
