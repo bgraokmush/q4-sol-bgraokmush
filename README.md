@@ -75,8 +75,11 @@ _For detailed examples and explanations, please refer to the specific folder doc
 
 - [x] TypeScript examples for Solana RPC interactions
 - [x] Rust examples for Solana RPC interactions
-- [ ] Create SPL Token
-- [ ] Create NFT
+- [x] Create SPL Token
+- [x] Create NFT
+- [ ] First Smart Contract
+- [ ] Create Barrow
+
 
 See the [open issues](https://github.com/your-username/Turbin3-Q4-Solana/issues) for a full list of proposed features (and known issues).
 
